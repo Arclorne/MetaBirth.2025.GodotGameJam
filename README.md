@@ -9,3 +9,4 @@ Game includes Dice.
 
 Additional Credits:
 - Adobe Stock Stone Texture (used in UI); https://stock.adobe.com/search?k=stone+texture
+- The Sound of Water Drops in a Dungeon (water_drops.ogg); https://www.youtube.com/@soundeffectsmusicroyaltyfr4395
