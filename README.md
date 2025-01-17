@@ -11,3 +11,4 @@ Additional Credits:
 - Adobe Stock Stone Texture (used in UI); https://stock.adobe.com/search?k=stone+texture
 - The Sound of Water Drops in a Dungeon (Dungeon Ambience), Sound Effects Music Royalty Free; https://youtu.be/B6z3fGIFCtE?si=J-iyqZCHMPEVk6OP
 - Sad Piano Music - Searching (Title Screen Music), MRTV; https://youtu.be/f6bHMLFwJmw?si=burI6-egcwfciedw
+- Electronic Hit (Button Click), freesound_community on Pixabay; https://pixabay.com/sound-effects/electronic-hit-98242/
